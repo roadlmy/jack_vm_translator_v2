@@ -1,0 +1,10 @@
+@staticLabel
+D=A
+@R15
+M=D
+@SP
+AM=M-1
+D=M
+@R15
+A=M
+M=D
